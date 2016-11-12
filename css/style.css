@@ -5,6 +5,11 @@
   font-weight: normal;
   font-style: normal;
 }
+
+@font-face {
+    font-family: cali;
+    src: url(NovaRound.ttf);
+}
 /* =======================================================
 *
 * 	Template Style 
